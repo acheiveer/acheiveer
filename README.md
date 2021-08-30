@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acheiveer&label=Profile%20views&color=0e75b6&style=flat" alt="acheiveer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acheiveer" alt="acheiveer" /></a> </p>
-<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji></p>
+
 
 - 🌱 I’m currently learning **Backend Web Development**
 
