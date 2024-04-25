@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acheiveer" alt="acheiveer" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend and improving my Problem Solving Skills**
+- 🌱 I’m currently learning **typeScript and Next.js**
 
 - 💬 Ask me about **Competetive Programming,Javascript,React**
 
