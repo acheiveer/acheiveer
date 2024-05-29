@@ -1,4 +1,4 @@
-<p> <img src="muskk.jfif"></p>
+<p> <img src="musk.jfif"></p>
 <h1 align="center">Hi 👋, I'm Prabhakar Kumar</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
@@ -7,13 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acheiveer" alt="acheiveer" /></a> </p>
 
 
-- 🌱 I’m currently learning **typeScript and Next.js**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 💬 Ask me about **Competetive Programming,Javascript,React**
 
 - 📫 How to reach me **prabhakarsinghssm1@gmail.com**
-
-- ⚡ Fun fact **I think I am wierd😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
