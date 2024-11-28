@@ -42,7 +42,7 @@ you can check my portfolio at -
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Cloud-IDE](https://github.com/acheiveer/Cloud-IDE)  
+- 🔭 I’m currently working on [AI-Blog](https://github.com/acheiveer/Medium-Blog-App)  
   
 
 - 🌱 I’m currently learning Advance Backend  
