@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/prabhakr4u/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://prabhakar-porfolio.vercel.app/" target="_blank">
+<a href="https://prabhakarkumar.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/Resume-%2300acee.svg?&style=for-the-badge&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
@@ -31,7 +31,7 @@
   
 you can check my portfolio at -
 </br>
-<h2>https://prabhakar-porfolio.vercel.app</h2>
+<h2>https://prabhakarkumar.vercel.app/</h2>
 <br/>  
 
 ## Rapidfire  
